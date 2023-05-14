@@ -1,0 +1,9 @@
+name: IChatEdu
+version: '${version}'
+main: net.ingnum.ichatedu.IChatEdu
+api-version: 1.18
+prefix: IChatEdu
+load: STARTUP
+authors: [Ingnum Networks]
+description: Minecraftサーバー内のチャットをプレイヤー単位で完全に言語学習用にするためのプラグイン 
+website: https://github.com/Ingnum/IChatEdu
